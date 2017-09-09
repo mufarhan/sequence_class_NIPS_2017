@@ -34,12 +34,12 @@ where <br />
 one sequence per line (line should end with line feed), with sequence elements separated by space, <br />
 all sequence elements are assumed to be in the range [0, \<AlphabetSize\> - 1]. <br />
 See Datasets folder for an example of the sequence file format. <br />
-<k>,<m>,<b>,<sigma> are corresponding kernel parameters (see references and help for a particular function for details) <br />
-<# of Sequences> is the total number of sequences <br />
-<Alphabet-size> is the size of the alphabet <br />
+\<k\>,\<m\>,\<b\>,\<sigma\> are corresponding kernel parameters (see references and help for a particular function for details) <br />
+\<# of Sequences\> is the total number of sequences <br />
+\<AlphabetSize\> is the size of the alphabet <br />
 
 Output kernel matrix is written into <br />
-  Kernel-k<k>-m<m>.txt <br />
+  Kernel-k\<k\>-m\<m\>.txt <br />
 file. <br />
 
 Authors:
