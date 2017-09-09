@@ -20,12 +20,12 @@ Main.class : computes mismatch kernel matrices
 
 Usage:
 ------
-This function takes a text file with sequences and output a text file with a Kernel matrix.
+This function takes a text file with sequences and output a text file with a kernel matrix.
 
 E.g. to compute mismatch(8,2) kernel for sequences with alphabet size=1024: <br />
 > java Main music.genre.txt 1000 8 2 1024 <br />
 
-this will create Kernel-k8-m2.txt file with Kernel matrix <br />
+this will create Kernel-k8-m2.txt file with kernel matrix <br />
 
 String kernels are called with the following parameters: <br />
 java Main \<Sequence-file\> \<# of Sequences\> \<k\> \<m\> \<AlphabetSize\> <br />
