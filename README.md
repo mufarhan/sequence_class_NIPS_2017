@@ -31,7 +31,7 @@ String kernels are called with the following parameters: <br />
 java Main \<Sequence-file\> \<# of Sequences\> \<k\> \<m\> \<AlphabetSize\> <br />
 <br />
 where <br />
-<Sequence-file> is the file with sequence data: <br />
+\<Sequence-file\> is the file with sequence data: <br />
 one sequence per line (line should end with line feed), with sequence elements separated by space, <br />
 all sequence elements are assumed to be in the range [0, \<AlphabetSize\> - 1]. <br />
 See Datasets folder for an example of the sequence file format. <br />
