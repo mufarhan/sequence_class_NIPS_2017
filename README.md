@@ -6,6 +6,14 @@ Farhan, M., Tariq, J., Zaman, A., Shabbir, M., Khan, I.  "Efficient Approximatio
 
 This implements new approximation based kernel algorithms for strings (see references).
 
+Data Sources:
+-------------
+
+http://ranger.uta.edu/~chqding/protein/
+http://opihi.cs.uvic.ca/sound/genres/
+http://ismir2004.ismir.net/genre_contest/
+https://labrosa.ee.columbia.edu/projects/artistid/
+
 Installation:
 -------------
 Download Source Code folder to your desired directory, and make sure, environment variable for java is set
