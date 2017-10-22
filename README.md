@@ -9,10 +9,10 @@ This implements new approximation based kernel algorithms for strings (see refer
 Data Sources:
 -------------
 
-http://ranger.uta.edu/~chqding/protein/
-http://opihi.cs.uvic.ca/sound/genres/
-http://ismir2004.ismir.net/genre_contest/
-https://labrosa.ee.columbia.edu/projects/artistid/
+http://ranger.uta.edu/~chqding/protein/ <br />
+http://opihi.cs.uvic.ca/sound/genres/ <br />
+http://ismir2004.ismir.net/genre_contest/ <br />
+https://labrosa.ee.columbia.edu/projects/artistid/ <br />
 
 Installation:
 -------------
